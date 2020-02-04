@@ -1,0 +1,16 @@
+{
+    "sass.enabled": false,
+    "path": {
+        "scss/styles.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "includePaths": [],
+                "sourceComments": false,
+                "output": "styles.min.css",
+                "outputStyle": "compressed"
+            },
+            "linting.collapsed": true
+        }
+    }
+}
